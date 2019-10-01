@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohhaexaigo.museumatlarge.com/sitemap.xml
